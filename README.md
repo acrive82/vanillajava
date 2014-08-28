@@ -2,9 +2,7 @@ A wittle ole Java project template
 ==================================
 Put something important here
 
-Gradle 2.0 is used
-Java 1.7
-
+Gradle 2.0 is used and Java 1.7
 
 1. Clone this repo
 
