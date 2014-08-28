@@ -1,10 +1,15 @@
-A wittle plain ole Java project template
-========================================
+A wittle ole Java project template
+==================================
 Put something important here
 
 Gradle 2.0 is used
 Java 1.7
 
-Clone this repo and rename cloned folder to whatever name you wanna give your project.
+
+1. Clone this repo
+
+2. Rename cloned 'vanillajava' folder to whatever name you wanna give your project.
+
+3. Remove the .git folder
 
 Stay Frosty
